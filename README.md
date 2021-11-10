@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 , I’m Galang
+
+- :eyes: I’m interested in Cloud Engineer
+- 🌱 I’m currently enthusiastic about Golang and Kotlin
+- 📫 We can stay in touch on : twitter @gadipuranto
 
 <!--
 **adeeplearn/adeeplearn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
